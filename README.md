@@ -50,4 +50,4 @@
 
 # Dataset Constrcut
 - We built this dataset based on the HO-3D dataset. We use the [HO-3D dataset](https://1drv.ms/f/s!AsG9HA3ULXQRlFy5tCZXahAe3bEV?e=BevrKO).
-- You can run ncsy_points.py to get the necessary_points_0.15, the finger_touch_trans.py to get the finger position under different finger's impairment and the 10234.py to get the MANO param when the finger position is 10234.
+- You can run 'ncsy_points.py' to get the necessary_points_0.15, the 'finger_touch_trans.py' to get the finger position under different finger's impairment and the '10234.py' to get the MANO param when the finger position is 10234.
