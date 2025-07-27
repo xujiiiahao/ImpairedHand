@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="./assets/dataset_2.png" alt="Teaser" width="600"/>
+  <img src="https://raw.githubusercontent.com/xujiiiahao/ImpairedHand/main/assets/dataset_2.png" alt="Teaser" width="600"/>
 </p>
 
 <h1 align="center"> ImpairedHand: A Dataset of Hand-Object Interactions under Finger Impairments
