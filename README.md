@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/xujiiiahao/ImpairedHand/main/assets/dataset_2.png" alt="Teaser" width="600"/>
 </p>
 
-<h1 align="center"> ImpairedHand: A Dataset of Hand-Object Interactions under Finger Impairments
+<h1 align="center"> ImpairedHand: Toward Fault-Tolerant Dexterous Grasping under Finger Impairments
 
 # Download Dataset
 1. Download the ImpairedHand datasets from the [ImpairedHand Project Page](). You can download specific categories or all the data according to your needs. The data are saved with the path: `ImpairedHand/Object_class/xxxx.json`, look like:
